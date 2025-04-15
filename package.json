@@ -1,0 +1,15 @@
+{
+  "name": "testcypress-sauce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kevin Rojas",
+  "license": "ISC",
+  "description": "PracticaWithSauce",
+  "devDependencies": {
+    "cypress": "^14.3.0"
+  }
+}
