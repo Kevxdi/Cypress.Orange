@@ -32,8 +32,7 @@ Archivo: `Test3-DataDriven.cy.js`
   - Login exitoso con credenciales válidas.
   - Login fallido con credenciales inválidas.
   - Login fallido con campos vacíos o credenciales incompletas.
-- **Ventajas:**
-  - Los datos están separados del código, lo que facilita la escalabilidad y el mantenimiento.
+
 
 ---
 
