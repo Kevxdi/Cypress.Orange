@@ -1,5 +1,5 @@
 ### 1. **Prueba de Login**
-Archivo: `Test-Login.cy.js`
+Archivo: `Test1-Login.cy.js`
 
 - **Objetivo:** Validar los escenarios de login utilizando credenciales válidas e inválidas.
 - **Casos cubiertos:**
